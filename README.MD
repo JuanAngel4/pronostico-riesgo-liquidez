@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pronóstico de Riesgo de Liquidez
 
 Proyecto desarrollado como prueba técnica para modelado de series de tiempo aplicado al análisis de utilización del cupo de crédito.
