@@ -27,11 +27,11 @@ Adicionalmente, se aplicó validación temporal mediante backtesting tipo walk-f
 - `enunciado/`: documento original de la prueba técnica  
 - `datos/`: base de datos utilizada  
 - `notebooks/`: desarrollo completo del modelado  
-- `entregables/`: informe técnico y prueba teórica  
+- `entregables/`: Prueba teórica  
 
 ## Resultado principal
 
-El modelo ARIMA(1,1,1) presentó el mejor desempeño predictivo y fue seleccionado para el pronóstico final.
+El modelo ARIMA(1,1,1) presentó el mejor desempeño predictivo y fue seleccionado para el pronóstico final sin variables externas consideradas.
 
 ## Autor
 
